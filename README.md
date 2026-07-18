@@ -41,9 +41,9 @@ computed in real time from measured data. The system renders **no synthetic data
 
 | | |
 |:---:|:---:|
-| ![Multi-track night analysis](docs/frame-01.png) | ![Stillness watch escalation](docs/frame-02.png) |
+| ![Multi-track night analysis](docs/1.png) | ![Stillness watch escalation](docs/2.png) |
 | *Multi-track night analysis* | *Stillness Watch escalation* |
-| ![Motion lock and state labels](docs/frame-03.png) | ![Room map and activity pulse](docs/frame-04.png) |
+| ![Motion lock and state labels](docs/3.png) | ![Room map and activity pulse](docs/4.png) |
 | *Motion lock & state labels* | *Room map & Activity Pulse* |
 
 ## System modules
